@@ -1,2 +1,2 @@
 # Churn-Analysis---EDA
-EDA, Pre processing
+EDA, Pre processing for imaginary telecom data.
